@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=39D353&center=true&vCenter=true&width=850&lines=Seguran%C3%A7a+Ofensiva+com+M%C3%A9todo%2C+Paci%C3%AAncia+e+Prova;Web+%26+API+%C2%B7+Gov+%26+Fintech;Eu+encontro+o+que+os+scanners+n%C3%A3o+veem" alt="Segurança ofensiva com método, paciência e prova" />
 
@@ -112,3 +112,4 @@ Offensive security researcher from Brazil, focused on **government & fintech, we
 <p align="center"><sub>Todo teste é realizado em ativos próprios ou com autorização explícita, dentro do escopo. Nenhum dado sensível é publicado.</sub></p>
 
 <p align="center"><i>"Segurança ofensiva não é sobre ferramenta. É sobre método."</i></p>
+**
